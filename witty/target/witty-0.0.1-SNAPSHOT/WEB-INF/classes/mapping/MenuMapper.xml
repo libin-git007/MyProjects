@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.li.org.mapper.MenuMapper">
+    <resultMap id="menubean" type="com.li.org.entity.MenuBean">
+        <result column="function_id" property="functionId" jdbcType="DECIMAL" />
+        <result column="function_code" property="functionCode" jdbcType="VARCHAR" />
+        <result column="function_name" property="functionName" jdbcType="VARCHAR" />
+        <result column="function_type" property="functionType" jdbcType="VARCHAR" />
+        <result column="parent_function_id" property="parentFunctionID" jdbcType="DECIMAL" />
+        <result column="icon" property="icon" jdbcType="DECIMAL" />
+    </resultMap>
+    <insert id="add" parameterType="com.li.org.entity.MenuBean">
+        insert into sys_menu(
+        function_id,
+        function_code,
+        function_type,
+        parent_function_id,
+        icon)
+        values(
+        #{menuBeans.functionId},
+        #{menuBeans.functionCode},
+        #{menuBeans.functionType},
+        #{menuBeans.parentFunctionId},
+        ""
+        )
+    </insert>
+    <select id="queryAll" resultType="com.li.org.entity.MenuBean">
+        select function_id as functionId,
+        function_code as functionCode,
+        function_name as functionName,
+        function_type as functionType,
+        parent_function_id as parentFunctionId,
+        icon
+        from sys_menu
+
+    </select>
+</mapper>
