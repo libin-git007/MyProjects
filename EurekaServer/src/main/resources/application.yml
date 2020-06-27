@@ -1,0 +1,19 @@
+server:
+  port: 1001
+
+spring:
+  application:
+    name: eureka-server
+
+eureka:
+  instance:
+    prefer-ip-address: true #以IP地址注册到服务中心，相互注册使用IP地址
+    hostname: localhost
+    instance-id: ${spring.application.name}:${server.port}/eureka-server/
+  client:
+    register-with-eureka: false #禁止自己当做服务注册
+    fetch-registry: false  #屏蔽注册信息
+    serviceUrl:
+      defaultZone: http://localhost:1001/eureka-server
+  server:
+    enable-self-preservation: true  #关闭保护机制
