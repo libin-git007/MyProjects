@@ -14,7 +14,7 @@ Vue.use(ElementUI)
 Vue.use(VueSession)
 Vue.prototype.$axios = axios
 axios.defaults.withCredentials=true;//让ajax携带cookie
-axios.defaults.baseURL="http://127.0.0.1:8081"
+axios.defaults.baseURL="http://127.0.0.1:1003"
 Vue.config.productionTip = false
 
 

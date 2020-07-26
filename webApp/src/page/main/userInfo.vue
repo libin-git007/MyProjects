@@ -33,7 +33,7 @@
       let that = this;
       //let data = [];
       // data.push({"userId":that.$session.get("userId")});
-      this.$axios.get(config.requestUrl + '/userInfo/queryUserInfo', {params: {"userId": that.$session.get("userId")}}).then(function (res) {
+      this.$axios.get( '/witty-main/userInfo/queryUserInfo', {params: {"userId": that.$session.get("userId")}}).then(function (res) {
         var resultJson = res.data;
         that.form = resultJson.data[0];
       });
@@ -47,7 +47,7 @@
         }
 
         //console.log("userName:"+this.$session.get("userName"));
-        this.$axios.post(config.requestUrl + '/userInfo/updateUserInfo', formData).then(function (res) {
+        this.$axios.post( '/witty-main/userInfo/updateUserInfo', formData).then(function (res) {
           //let resultJson = res.data;
           //that.form = resultJson.data[0];
           that.$message({message: '成功', type: 'success'});

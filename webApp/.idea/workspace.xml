@@ -11,7 +11,346 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfa2c63d-2790-49a4-b4ec-025264c53793" name="Default Changelist" comment="前端app初始化">
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/witty-eurekaServer/witty-eurekaServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../witty/witty-main/witty-main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/main/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/main/main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/main/menu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/main/menu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/main/user.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/main/user.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/main/userInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/main/userInfo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/public.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/public.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../witty/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../witty/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_autoscaling_1_11_277.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_core_1_11_277.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_ec2_1_11_277.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_route53_1_11_277.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_sts_1_11_277.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_amazonaws_jmespath_java_1_11_277.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/libraries/Maven__software_amazon_ion_ion_java_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../witty/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../witty/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../witty/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/WittyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/config/RedisConfig.java.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/config/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/controller/BaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/controller/MenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/entity/MenuBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/entity/MyUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/entity/RequestData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/entity/ResponseData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/enums/ResultCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/mapper/MenuMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/service/LoginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/service/MenuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/service/impl/LoginImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/service/impl/MenuImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/service/impl/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/service/impl/UserImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/service/impl/UserPasswordEncoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/java/com/li/org/util/RedisUtil.java.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/resources/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/resources/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/resources/mapping/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/src/main/resources/mapping/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/META-INF/witty.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/WittyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/config/WebSecurityConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/config/WebSecurityConfig$AjaxAuthFailHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/config/WebSecurityConfig$AjaxAuthSuccessHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/config/WebSecurityConfig$CustomizeAuthenticationEntryPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/config/WebSecurityConfig$logOutSuccessHander.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/config/WebSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/controller/BaseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/controller/MenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/entity/MenuBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/entity/MyUserDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/entity/RequestData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/entity/ResponseData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/enums/ResultCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/mapper/MenuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/service/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/service/MenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/service/impl/LoginImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/service/impl/MenuImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/service/impl/UserDetailsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/service/impl/UserImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/com/li/org/service/impl/UserPasswordEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/mapping/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/classes/mapping/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/surefire-reports/TEST-com.li.org.WittyApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/surefire-reports/com.li.org.WittyApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/com/li/org/WittyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/com/li/org/controller/JsonFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/com/li/org/controller/MenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/com/li/org/entity/MenuBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/com/li/org/mapper/MenuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/com/li/org/service/MenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/com/li/org/service/impl/MenuImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/com/li/org/util/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/com/li/org/util/RedisUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/classes/mapping/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/HikariCP-3.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/fastjson-1.2.46.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-validator-6.0.18.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-databind-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-datatype-jdk8-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-datatype-jsr310-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-module-parameter-names-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.4.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/lettuce-core-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-api-2.12.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-to-slf4j-2.12.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/logback-classic-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/logback-core-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/lombok-1.16.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-3.4.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-spring-boot-starter-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.34.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/netty-buffer-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/netty-codec-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/netty-common-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/netty-handler-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/netty-resolver-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/netty-transport-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/reactive-streams-1.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/reactor-core-3.3.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/snakeyaml-1.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-data-redis-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-jdbc-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-json-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-logging-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-tomcat-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-validation-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-web-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-support-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-commons-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-keyvalue-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-redis-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jcl-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-oxm-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/tomcat-embed-core-9.0.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/tomcat-embed-el-9.0.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-0.0.1-SNAPSHOT/WEB-INF/lib/tomcat-embed-websocket-9.0.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/com/li/org/WittyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/com/li/org/controller/JsonFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/com/li/org/controller/MenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/com/li/org/entity/MenuBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/com/li/org/mapper/MenuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/com/li/org/service/MenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/com/li/org/service/impl/MenuImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/com/li/org/util/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/com/li/org/util/RedisUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/classes/mapping/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/HikariCP-3.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/fastjson-1.2.46.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/hibernate-validator-6.0.18.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/jackson-annotations-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/jackson-core-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/jackson-databind-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/jackson-datatype-jdk8-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/jackson-datatype-jsr310-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/jackson-module-parameter-names-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/jboss-logging-3.4.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/jul-to-slf4j-1.7.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/lettuce-core-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/log4j-api-2.12.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/log4j-to-slf4j-2.12.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/logback-classic-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/logback-core-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/lombok-1.16.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/mybatis-3.4.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/mybatis-spring-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/mybatis-spring-boot-starter-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/mysql-connector-java-5.1.34.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/netty-buffer-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/netty-codec-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/netty-common-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/netty-handler-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/netty-resolver-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/netty-transport-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/reactive-streams-1.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/reactor-core-3.3.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/slf4j-api-1.7.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/snakeyaml-1.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-aop-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-beans-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-boot-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-boot-autoconfigure-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-boot-starter-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-boot-starter-data-redis-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-boot-starter-jdbc-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-boot-starter-json-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-boot-starter-logging-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-boot-starter-tomcat-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-boot-starter-validation-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-boot-starter-web-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-context-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-context-support-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-core-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-data-commons-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-data-keyvalue-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-data-redis-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-expression-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-jcl-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-jdbc-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-oxm-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-tx-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-web-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/spring-webmvc-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/tomcat-embed-core-9.0.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/tomcat-embed-el-9.0.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty-2.2.5.RELEASE/WEB-INF/lib/tomcat-embed-websocket-9.0.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty.war.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/com/li/org/WittyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/com/li/org/controller/JsonFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/com/li/org/controller/MenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/com/li/org/entity/MenuBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/com/li/org/mapper/MenuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/com/li/org/service/MenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/com/li/org/service/impl/MenuImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/com/li/org/util/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/com/li/org/util/RedisUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/classes/mapping/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/HikariCP-3.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/fastjson-1.2.46.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/hibernate-validator-6.0.18.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/jackson-annotations-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/jackson-core-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/jackson-databind-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/jackson-datatype-jdk8-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/jackson-datatype-jsr310-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/jackson-module-parameter-names-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/jboss-logging-3.4.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/jul-to-slf4j-1.7.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/lettuce-core-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/log4j-api-2.12.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/log4j-to-slf4j-2.12.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/logback-classic-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/logback-core-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/lombok-1.16.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/mybatis-3.4.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/mybatis-spring-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/mybatis-spring-boot-starter-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/mysql-connector-java-5.1.34.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/netty-buffer-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/netty-codec-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/netty-common-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/netty-handler-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/netty-resolver-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/netty-transport-4.1.45.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/reactive-streams-1.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/reactor-core-3.3.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/slf4j-api-1.7.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/snakeyaml-1.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-aop-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-beans-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-boot-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-boot-autoconfigure-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-boot-starter-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-boot-starter-data-redis-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-boot-starter-jdbc-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-boot-starter-json-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-boot-starter-logging-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-boot-starter-tomcat-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-boot-starter-validation-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-boot-starter-web-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-context-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-context-support-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-core-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-data-commons-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-data-keyvalue-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-data-redis-2.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-expression-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-jcl-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-jdbc-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-oxm-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-tx-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-web-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/spring-webmvc-5.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/tomcat-embed-core-9.0.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/tomcat-embed-el-9.0.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/target/witty/WEB-INF/lib/tomcat-embed-websocket-9.0.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../witty/witty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../witty/witty.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +397,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue-element-admin-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -170,6 +510,13 @@
       <workItem from="1593161355019" duration="533000" />
       <workItem from="1593161956428" duration="1668000" />
       <workItem from="1593238791013" duration="93000" />
+      <workItem from="1593240602197" duration="2137000" />
+      <workItem from="1593306172462" duration="42000" />
+      <workItem from="1594860115591" duration="17000" />
+      <workItem from="1595090395400" duration="341000" />
+      <workItem from="1595135526394" duration="3240000" />
+      <workItem from="1595602658120" duration="2829000" />
+      <workItem from="1595743167413" duration="2910000" />
     </task>
     <task id="LOCAL-00001" summary="前端app初始化">
       <created>1593161407856</created>
@@ -233,14 +580,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="前端app初始化" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="425" y="25" key="#Deployment" timestamp="1586510455039">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="425" y="25" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1586510455039" />
-    <state x="552" y="181" key="#HTTP_Proxy" timestamp="1586269348059">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="181" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1586269348059" />
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593162059199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -253,10 +592,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="489" y="273" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593162898784" />
-    <state x="801" y="380" key="FileChooserDialogImpl" timestamp="1586510151583">
+    <state x="801" y="380" key="FileChooserDialogImpl" timestamp="1593242056055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="801" y="380" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586510151583" />
+    <state x="801" y="380" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593242056055" />
     <state x="463" y="164" key="SettingsEditor" timestamp="1590024615166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -265,18 +604,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593161703670" />
-    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586527912445">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586527912445" />
     <state x="685" y="331" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1593162893739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="685" y="331" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593162893739" />
-    <state x="521" y="148" width="822" height="671" key="find.popup" timestamp="1588606772351">
+    <state x="414" y="166" width="822" height="671" key="find.popup" timestamp="1595743454968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="521" y="148" width="822" height="671" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588606772351" />
+    <state x="414" y="166" width="822" height="671" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595743454968" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588211572758">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

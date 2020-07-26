@@ -20,7 +20,7 @@
       <el-table-column
         type="selection" width="35">
       </el-table-column>
-      <el-table-column label="用户名"></el-table-column>
+      <el-table-column label="角色代码"></el-table-column>
 
     </el-table>
   </div>

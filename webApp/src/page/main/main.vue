@@ -85,7 +85,7 @@
     created() {
       //查询菜单信息显示
       let that = this;
-      this.$axios.get(config.requestUrl + '/menu/queryMenuTree').then(function (res) {
+      this.$axios.get( '/witty-main/menu/queryMenuTree').then(function (res) {
         that.menuData = res.data;
       }).catch(function (e) {
         console.log(e);
@@ -98,7 +98,7 @@
       logOut() {
         //登出
         let that = this;
-        this.$axios.get(config.requestUrl + '/logout').then(function (res) {
+        this.$axios.get( '/logout').then(function (res) {
           //退出后跳转到登陆页面
           router.replace({
             path: 'login',

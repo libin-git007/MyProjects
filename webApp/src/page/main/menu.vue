@@ -149,7 +149,7 @@
           spinner: 'el-icon-loading',
           background: 'rgba(0, 0, 0, 0.7)'
         });
-        this.$axios.post(config.requestUrl + '/menu/queryAll').then(function (res) {
+        this.$axios.post( '/witty-main/menu/queryAll').then(function (res) {
           that.tableData = res.data;
           that.total = res.data.total;
           loading.close();
@@ -170,7 +170,7 @@
       //保存table数据
       save() {
         let that = this;
-        this.$axios.post(config.requestUrl + '/menu/update',
+        this.$axios.post( '/witty-main/menu/update',
           this.tableData).then(function (res) {
           that.$message({message: '成功', type: 'success'});
 
@@ -182,7 +182,7 @@
       del() {
         let that = this;
         let selectData = this.$refs.menuTable.selection;
-        this.$axios.post(config.requestUrl + '/menu/delete',
+        this.$axios.post( '/witty-main/menu/delete',
           selectData).then(function (res) {
           that.$message({message: '成功', type: 'success'});
           that.initQuery();
@@ -193,7 +193,7 @@
       //点击查询按钮查询
       query() {
         let that = this;
-        this.$axios.post('/menu/queryByColumn',
+        this.$axios.post('/witty-main/menu/queryByColumn',
           {
             "functionCode": that.functionCode,
             "functionName": that.functionName,
