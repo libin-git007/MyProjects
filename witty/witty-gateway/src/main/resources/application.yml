@@ -1,0 +1,29 @@
+server:
+  port: 1003
+
+spring:
+  application:
+    name: witty-gateway
+  datasource:
+    username: hap_dev
+    password: hap_dev
+    url: jdbc:mysql://192.168.21.128:3306/witty?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC&&autoReconnect=true&failOverReadOnly=false
+    driver-class-name: com.mysql.jdbc.Driver
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    instance-id: witty-gateway
+  client:
+    service-url:
+      defaultZone: http://localhost:1001/eureka
+
+mybatis:
+  mapper-locations: classpath:mapping/*Mapper.xml
+  type-aliases-package: com.li.org.mapper
+
+zuul:
+  routes:
+    witty-main:
+      path: /witty-main/**
+  ignored-patterns: /**/login/**
