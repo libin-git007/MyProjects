@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/witty.iml" filepath="$PROJECT_DIR$/witty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/witty-eurekaServer/witty-eurekaServer.iml" filepath="$PROJECT_DIR$/witty-eurekaServer/witty-eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/witty-gateway/witty-gateway.iml" filepath="$PROJECT_DIR$/witty-gateway/witty-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/witty-main/witty-main.iml" filepath="$PROJECT_DIR$/witty-main/witty-main.iml" />
     </modules>
   </component>
 </project>

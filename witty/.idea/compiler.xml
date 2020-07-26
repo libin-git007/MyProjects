@@ -7,16 +7,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="witty" />
+        <module name="witty-gateway" />
+        <module name="witty-eurekaServer" />
+        <module name="witty-server" />
+        <module name="witty-main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="witty" target="1.8" />
+      <module name="witty-eurekaServer" target="1.8" />
+      <module name="witty-gateway" target="1.8" />
+      <module name="witty-main" target="1.8" />
+      <module name="witty-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="witty" options="-parameters" />
+      <module name="witty" options="" />
+      <module name="witty-eurekaServer" options="-parameters" />
+      <module name="witty-gateway" options="-parameters" />
+      <module name="witty-main" options="-parameters" />
+      <module name="witty-server" options="-parameters" />
     </option>
   </component>
 </project>
