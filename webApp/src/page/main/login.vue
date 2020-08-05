@@ -52,25 +52,24 @@
       doLogin() {
         let that = this;
         this.$axios.post('/login?username=' + this.user.username + '&password=' + this.user.password).then(function (res) {
-          var result = res.data;
-          var code = result.code;
-          if (code == '999') {
-            that.user.message = result.message;
-          } else {
-            console.log(result);
-            that.$session.set("userName",result.data.username);
-            that.$session.set("userId",result.data.userId);
-            router.replace({
-              path: '/',
-              //query: {redirect: router.currentRoute.fullPath}
-            });
-          }
+            var result = res.data;
+            var code = result.code;
+            if (code == '999') {
+              that.user.message = result.message;
+            } else {
+              console.log(result);
+              that.$session.set("userName", result.data.username);
+              that.$session.set("userId", result.data.userId);
+              router.replace({
+                path: '/',
+                //query: {redirect: router.currentRoute.fullPath}
+              });
+            }
 
+          }
+        );
       }
-  )
-  ;
-  }
-  }
+    }
   }
 </script>
 

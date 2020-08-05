@@ -33,7 +33,7 @@ Vue.config.productionTip = false
 //
 
 // http response 拦截器
-axios.interceptors.response.use(
+/*axios.interceptors.response.use(
   response => {
     //console.log("success");
 
@@ -45,12 +45,12 @@ axios.interceptors.response.use(
         path: 'login',
         query: {redirect: router.currentRoute.fullPath}
       });
-    }/*else if(code=='200'){
+    }/!*else if(code=='200'){
       router.replace({
         path: '/',
         query: {redirect: router.currentRoute.fullPath}
       });
-    }*/
+    }*!/
     return response;
   },
   error => {
@@ -66,7 +66,7 @@ axios.interceptors.response.use(
     }
     //console.log("打印："+error.response.status);
     return Promise.reject(error.response.data)   // 返回接口返回的错误信息
-  });
+  });*/
 
 Vue.mixin({
   data () {
