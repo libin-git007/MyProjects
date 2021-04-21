@@ -85,3 +85,5 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
+
+//更新一下
