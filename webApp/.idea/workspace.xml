@@ -5,9 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfa2c63d-2790-49a4-b4ec-025264c53793" name="Default Changelist" comment="前端app初始化">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cfa2c63d-2790-49a4-b4ec-025264c53793" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,6 +198,7 @@
       <workItem from="1618843946672" duration="238000" />
       <workItem from="1618844202845" duration="123000" />
       <workItem from="1618931077324" duration="2988000" />
+      <workItem from="1619014344424" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="前端app初始化">
       <created>1593161407856</created>
@@ -236,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618932542981</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="210421更新">
+      <created>1619014459140</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619014459140</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +298,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20200805" />
     <MESSAGE value="前端app初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="前端app初始化" />
+    <MESSAGE value="210421更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="210421更新" />
   </component>
 </project>
